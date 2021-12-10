@@ -24,6 +24,10 @@
   color: white;
 }
 
+i{
+  cursor: pointer;
+}
+
 .App-link {
   color: #61dafb;
 }
